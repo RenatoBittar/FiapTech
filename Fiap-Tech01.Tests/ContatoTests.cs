@@ -17,6 +17,7 @@ namespace Fiap_Tech01.Tests
 
             _context = new ContatosContext(options);
         }
+        //testeCommit
         //[Theory]
         //[InlineData("Teste1", "teste1@example.com", "123456789", "11", "Rua Teste 1")]
         //[InlineData("Teste2", "teste2@example.com", "987654321", "21", "Rua Teste 2")]
