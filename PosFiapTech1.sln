@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosFiapTech1", "PosFiapTech1\PosFiapTech1.csproj", "{C9F22F5B-D0BA-4527-8272-92C31128F425}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosFiapTech1.Tests", "Fiap-Tech01.Tests\PosFiapTech1.Tests.csproj", "{01E3DD33-7B23-4164-9E57-7B041D3BACAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F22F5B-D0BA-4527-8272-92C31128F425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F22F5B-D0BA-4527-8272-92C31128F425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F22F5B-D0BA-4527-8272-92C31128F425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F22F5B-D0BA-4527-8272-92C31128F425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E3DD33-7B23-4164-9E57-7B041D3BACAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E3DD33-7B23-4164-9E57-7B041D3BACAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E3DD33-7B23-4164-9E57-7B041D3BACAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E3DD33-7B23-4164-9E57-7B041D3BACAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D8A053-C8CB-4B8C-8345-34D61292EC23}
+	EndGlobalSection
+EndGlobal

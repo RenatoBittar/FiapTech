@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PosFiapTech1.props" />
+</Project>
