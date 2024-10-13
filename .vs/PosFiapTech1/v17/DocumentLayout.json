@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "Fiap-Tech01.Tests\\ContatoTests.cs",
               "ToolTip": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\Fiap-Tech01.Tests\\ContatoTests.cs",
               "RelativeToolTip": "Fiap-Tech01.Tests\\ContatoTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T23:44:39.639Z",
               "EditorCaption": ""
@@ -43,8 +47,7 @@
               "RelativeToolTip": "Fiap-Tech01.Tests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:44:34.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T23:44:34.301Z"
             }
           ]
         }
