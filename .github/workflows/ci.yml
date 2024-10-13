@@ -3,7 +3,7 @@ name: CI - Testes Automatizados
 on:
   push:
     branches:
-      - main
+      - main  # Certifique-se de que a branch correta esteja sendo usada
   pull_request:
     branches:
       - main
@@ -19,7 +19,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '8.0.x'
+        dotnet-version: '8.0.x'  # Verifique se a versão está correta
 
     - name: Restore dependencies
       run: dotnet restore
