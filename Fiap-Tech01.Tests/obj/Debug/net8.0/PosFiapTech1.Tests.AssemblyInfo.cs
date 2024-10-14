@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PosFiapTech1.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad9159233ae96409cbfd052aad99a4ad0a1202d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ec05c94d07cef9258b6797fe0a6e2659eb2f4a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PosFiapTech1.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PosFiapTech1.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
