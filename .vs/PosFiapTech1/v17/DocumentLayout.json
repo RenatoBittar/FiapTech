@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9F22F5B-D0BA-4527-8272-92C31128F425}|PosFiapTech1\\PosFiapTech1.csproj|c:\\users\\dell\\documents\\fiap\\posfiaptech\\posfiaptech1\\posfiaptech1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F22F5B-D0BA-4527-8272-92C31128F425}|PosFiapTech1\\PosFiapTech1.csproj|solutionrelative:posfiaptech1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F22F5B-D0BA-4527-8272-92C31128F425}|PosFiapTech1\\PosFiapTech1.csproj|c:\\users\\dell\\documents\\fiap\\posfiaptech\\posfiaptech1\\posfiaptech1\\middleware\\requesttimingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F22F5B-D0BA-4527-8272-92C31128F425}|PosFiapTech1\\PosFiapTech1.csproj|solutionrelative:posfiaptech1\\middleware\\requesttimingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F22F5B-D0BA-4527-8272-92C31128F425}|PosFiapTech1\\PosFiapTech1.csproj|c:\\users\\dell\\documents\\fiap\\posfiaptech\\posfiaptech1\\posfiaptech1\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F22F5B-D0BA-4527-8272-92C31128F425}|PosFiapTech1\\PosFiapTech1.csproj|solutionrelative:posfiaptech1\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01E3DD33-7B23-4164-9E57-7B041D3BACAC}|Fiap-Tech01.Tests\\PosFiapTech1.Tests.csproj|c:\\users\\dell\\documents\\fiap\\posfiaptech\\posfiaptech1\\fiap-tech01.tests\\contatotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01E3DD33-7B23-4164-9E57-7B041D3BACAC}|Fiap-Tech01.Tests\\PosFiapTech1.Tests.csproj|solutionrelative:fiap-tech01.tests\\contatotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +38,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestTimingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\PosFiapTech1\\Middleware\\RequestTimingMiddleware.cs",
+              "RelativeDocumentMoniker": "PosFiapTech1\\Middleware\\RequestTimingMiddleware.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\PosFiapTech1\\Middleware\\RequestTimingMiddleware.cs",
+              "RelativeToolTip": "PosFiapTech1\\Middleware\\RequestTimingMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:12:04.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\PosFiapTech1\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "PosFiapTech1\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\PosFiapTech1\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "PosFiapTech1\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:56:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\PosFiapTech1\\Program.cs",
+              "RelativeDocumentMoniker": "PosFiapTech1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\PosFiapTech1\\Program.cs",
+              "RelativeToolTip": "PosFiapTech1\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:50:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContatoTests.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\Fiap-Tech01.Tests\\ContatoTests.cs",
               "RelativeDocumentMoniker": "Fiap-Tech01.Tests\\ContatoTests.cs",
               "ToolTip": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\Fiap-Tech01.Tests\\ContatoTests.cs",
               "RelativeToolTip": "Fiap-Tech01.Tests\\ContatoTests.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAywC4AAAAFAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAywDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T23:44:39.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Fiap\\PosFiapTech\\PosFiapTech1\\Fiap-Tech01.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Fiap-Tech01.Tests\\UnitTest1.cs",
@@ -47,7 +98,8 @@
               "RelativeToolTip": "Fiap-Tech01.Tests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T23:44:34.301Z"
+              "WhenOpened": "2024-10-07T23:44:34.301Z",
+              "EditorCaption": ""
             }
           ]
         }
